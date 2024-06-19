@@ -1,0 +1,36 @@
+
+li{
+  list-style-type: none;
+}
+
+ul{
+    padding: 0;
+}
+
+.bodybody{
+    position: relative;
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.task_1{
+    left: 35%;
+}
+
+.task_2{
+    left: 65%;
+}
+
+.date{
+    width: 150px;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 2%;
+    display: inline-block;
+    border: solid 2px black;
+    border-radius: 15px;
+}
